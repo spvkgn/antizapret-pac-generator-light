@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # HTTPS (TLS) proxy address
-PACHTTPSHOST='127.0.0.1:6666'
+PACHTTPSHOST='127.0.0.1:1080'
 
 # Regular proxy address
-PACPROXYHOST='127.0.0.1:6666'
+PACPROXYHOST='127.0.0.1:3128'
 
 # Facebook and Twitter proxy address
-PACFBTWHOST='127.0.0.1:6666'
+PACFBTWHOST='127.0.0.1:3128'
 
 
 PACFILE="result/proxy-host-ssl.pac"
