@@ -6,13 +6,13 @@
 
 Resulting PAC files is
 
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl.pac
+    - https://spvkgn.github.io/antizapret-pac-generator-light/proxy-host-nossl.pac
 
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl.pac
+    - https://spvkgn.github.io/antizapret-pac-generator-light/proxy-host-ssl.pac
 
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-pattern.pac
+    - https://spvkgn.github.io/antizapret-pac-generator-light/proxy-host-nossl-pattern.pac
 
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-pattern.pac
+    - https://spvkgn.github.io/antizapret-pac-generator-light/proxy-host-ssl-pattern.pac
 
 Changes/improvements:
 
